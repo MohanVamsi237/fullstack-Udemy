@@ -1,0 +1,11 @@
+h1{
+    font-family:"Libre Baskerville",sans-serif;   
+    text-align: center;
+}
+body{
+    background-color:black;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+}
